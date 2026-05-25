@@ -61,3 +61,4 @@ print("\nFinal Dataset Shape:")
 print(df.shape)
 
 print("\nFirst 5 Rows:")
+print(df.head())
